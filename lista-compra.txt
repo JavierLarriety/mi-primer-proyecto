@@ -4,4 +4,5 @@ aceite
 vinagre
 sal
 atún
-
+panecillo
+comino
