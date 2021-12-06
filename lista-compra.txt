@@ -7,3 +7,6 @@ atún
 pan
 comino
 curcuma
+ajo
+perejil
+
