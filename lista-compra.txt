@@ -4,5 +4,6 @@ aceite
 vinagre
 sal
 atún
-panecillo
+pan
 comino
+curcuma
